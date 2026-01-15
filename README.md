@@ -1,4 +1,4 @@
-# Maya 1967 Volkswagen Bus Model
+# Maya Volkswagen Bus Model
 
 A 1967 Volkswagen Bus modelled entirely in <strong>Autodesk Maya</strong>, with a clean all-quads topology.
 
